@@ -25,7 +25,7 @@ SoX (Sound eXchange) is the Swiss Army knife of sound processing tools: it can c
 
 # Description
 
-Here located unofficial builds of the [SoX (Sound eXchange)](https://github.com/mansr/sox) audio tool with DSD support and other patches (including both DSF & DFF I/O and SDM sox "effect" to convert from PCM to DSD) for OS Windows only. Provided two Windows executable files for 32 & 64 bit systems. Binaries were cross-compiled on Linux using MinGW/gcc on fully static way.
+[Here](https://github.com/turbulentie/sox-dsd-win) located unofficial builds of the [SoX (Sound eXchange)](https://github.com/mansr/sox) audio tool with DSD support and other patches (including both DSF & DFF I/O and SDM sox "effect" to convert from PCM to DSD) for OS Windows only. Provided two Windows executable files for 32 & 64 bit systems. Binaries were cross-compiled on Linux using MinGW/gcc on fully static way.
 
 - [x] DSF I/O
 - [x] DFF I/O
